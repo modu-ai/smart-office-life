@@ -200,6 +200,7 @@ dist-ssr/
 .moai/
 .claude/
 CLAUDE.md
+CLAUDE.local.md
 .mcp.json
 
 # ===========================================
