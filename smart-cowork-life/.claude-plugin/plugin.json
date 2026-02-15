@@ -1,0 +1,32 @@
+{
+  "name": "smart-cowork-life",
+  "version": "1.2.0",
+  "description": "슬기로운 코워크 생활 — 직장인·취준생을 위한 한국형 업무 스킬 12종 + 슬래시 커맨드 5종 플러그인. Pretendard(9종)/조선일보명조 폰트 내장, PPT 디자인 시스템, Mermaid v11 기반 SVG 도식화 포함. 이메일, 보고서, 회의록, 제안서, 엑셀(2026 4대보험 반영), 프롬프트, 프로젝트 관리, 이력서, 데이터 보고서, 번역까지 업무 전반을 커버합니다.",
+  "author": {
+    "name": "Modu-AI",
+    "homepage": "https://mo.ai.kr"
+  },
+  "license": "COPYLEFT",
+  "keywords": [
+    "한국어",
+    "직장인",
+    "업무",
+    "이메일",
+    "보고서",
+    "회의록",
+    "이력서",
+    "엑셀",
+    "프롬프트",
+    "프로젝트관리",
+    "PPT디자인",
+    "SVG",
+    "Mermaid",
+    "번역",
+    "제안서",
+    "대시보드",
+    "KPI",
+    "한영번역",
+    "Pretendard"
+  ],
+  "repository": "https://github.com/modu-ai/smart-cowork-life"
+}

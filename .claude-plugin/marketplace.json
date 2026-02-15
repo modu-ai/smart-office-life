@@ -1,12 +1,12 @@
 {
-  "name": "smart-office-life",
+  "name": "smart-cowork-life",
   "owner": {
     "name": "Modu-AI"
   },
   "plugins": [
     {
-      "name": "smart-office-life",
-      "source": ".",
+      "name": "smart-cowork-life",
+      "source": "./smart-cowork-life",
       "description": "한국 직장인·취준생을 위한 12종 비즈니스 스킬과 5종 슬래시 커맨드. 이메일, 보고서, 회의록, 제안서, 엑셀, 프롬프트, 프로젝트 관리, 이력서, 데이터 보고서, 번역, PPT 디자인, SVG 도식화를 지원합니다."
     }
   ]
